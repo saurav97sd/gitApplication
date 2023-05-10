@@ -1,2 +1,3 @@
 This is file B.
 Similar to file A, it is also created to learn Git.
+Making some chnages in file b.
